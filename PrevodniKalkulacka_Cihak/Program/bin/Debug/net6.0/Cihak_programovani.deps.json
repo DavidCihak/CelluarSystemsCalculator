@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cihak_programovani/1.0.0": {
+        "runtime": {
+          "Cihak_programovani.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cihak_programovani/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
